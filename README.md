@@ -8,11 +8,13 @@ This repository includes plugins, fields and widgets for [Kirby CMS](https://get
 
 To make it as easy as possible this repository is using the Github issue tracker to list the plugins.
 
-### [Plugin list](https://github.com/jenstornell/kirby-plugins/issues)
+**[Plugin list](https://github.com/jenstornell/kirby-plugins/issues)**
 
 ## Submit a plugin
 
-[Add a plugin](https://github.com/jenstornell/kirby-plugins/issues) by adding an issue.
+**[Add a plugin](https://github.com/jenstornell/kirby-plugins/issues)**
+
+To do that just add an issue.
 
 Make sure to also add labels. It's great when filtering for a plugin.
 
