@@ -22,6 +22,11 @@ Make sure to also add labels. It's great when filtering for a plugin.
 
 Github issue tracker has a built in search. If that is not enough you can filter the plugins by the label.
 
+## Other resources
+
+- http://getkirby-plugins.com/
+- https://forum.getkirby.com/t/the-kirby-plugin-extensions-collection
+
 ## Future
 
 It's probably easy to build a website around it with [Github API](https://developer.github.com/v3/issues/) tha makes it more visually appealing.
