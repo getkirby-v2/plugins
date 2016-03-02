@@ -1,8 +1,13 @@
 # Kirby Plugins
 
+![Test](test.svg)![Test](test.svg) ![Test](test.svg)
+![Test](test.svg)
+
+![Test](test.svg)
+
 ## For Kirby CMS
 
-This repository includes plugins, panel fields, widgets, kirbytext tags etc for [Kirby CMS](https://getkirby.com/).
+This repository includes plugins, panel fields, widgets, kirbytext tags ect for [Kirby CMS](https://getkirby.com/).
 
 To make it simple, we use the Github issue tracker as a **[plugin list](https://github.com/jenstornell/kirby-plugins/issues)**.
 
@@ -35,7 +40,7 @@ You can add labels, but only if you are a collaborator. I can change the privile
 
 Maybe a plugin does not work with the latest version of Kirby or has security issues. Then it's good for other people to know about it.
 
-- You can comment in the plugin issue on why the plugin is a bad one.
+- You can comment in the plugin issue on why the plugin as a bad one.
 - If you are a collaborator you can add the label `WARNING`.
 - If other people agree about the warning, also edit the initial comment and write why people should not use it.
 
