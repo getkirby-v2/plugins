@@ -1,6 +1,6 @@
 # Kirby Plugins
 
-![Test](test.svg)![Test](test.svg) ![Test](test.svg)
+![Test](https://raw.githubusercontent.com/jenstornell/kirby-plugins/master/test.svg)![Test](test.svg) ![Test](test.svg)
 ![Test](test.svg)
 
 ![Test](test.svg)
