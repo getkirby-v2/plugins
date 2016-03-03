@@ -1,10 +1,10 @@
 # Kirby Plugins
 
-The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issues)** for plugins for [Kirby CMS](https://getkirby.com/).
+The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issues)** for [Kirby CMS](https://getkirby.com/).
 
-***In this repository a plugin is anything related to Kirby that is not a theme.***
+***In this repository a plugin is anything related to Kirby, that is not a theme.***
 
-### Types (*weak colors*)
+### Types *(weak colors)*
 
 | Label      | Docs| Description
 | -----------|---|---
@@ -27,9 +27,7 @@ The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issu
 | [![Commercial](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/commercial.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | Costs money
 | [![Panel](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/panel.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3APanel) | For the Kirby Panel
 
-### States
-
-Uses strong colors.
+### States *(strong colors)*
 
 | Label      | Description 
 | -----------|---
@@ -37,8 +35,6 @@ Uses strong colors.
 | [![Duplicate](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/duplicate.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ADuplicate)  | Already added to the repository
 | [![Malware](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/malware.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AMalware)    | Contains virus, spam or other unwanted stuff
 | [![Stable](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/stable.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AStable)     | Approved as stable in the official Kirby plugin repo
-
-### Search
 
 You can also [search](https://github.com/jenstornell/kirby-plugins/issues) for the plugin.
 
@@ -52,11 +48,11 @@ You can only add labels if you are a collaborator. I can change the privileges w
 
 ## Report a plugin
 
-If the plugin is **broken**, **is malware** or **already exists** in the repo somewhere else, add a comment in the plugin issue. If others agree, we can set a red label on it. Don't close the issue!
+If the plugin is **broken**, is **malware** or is **duplicate** (already exists in the plugin list), add a comment in the plugin issue. If others agree, we can label it. Don't close the issue!
 
 ## Future ideas
 
-- A website built  with [Github API](https://developer.github.com/v3/issues/) to make the plugins more visually appealing.
+- A website built with [Github API](https://developer.github.com/v3/issues/) to make the plugins more visually appealing.
 
 ## Responsibility
 
