@@ -6,6 +6,8 @@ The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issu
 
 ### Groups
 
+Uses strong colors.
+
 | Label      | Description 
 | -----------|---
 | [Commercial](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | Costs money
@@ -13,28 +15,32 @@ The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issu
 
 ### Types
 
+Uses weak colors.
+
 | Label      | Docs| Description
 | -----------|---|---
 | [![Blueprint](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/blueprint.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ABlueprint) | [Docs](https://getkirby.com/docs/panel/blueprints) | Blueprints for the panel
-| [Controller](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AController) | [Docs](https://getkirby.com/docs/templates/controllers) | Logic taken out from the templates
-| [Core](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ACore) | [Docs](https://getkirby.com/docs) | Fork of the Kirby core
-| [Field](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AField) | [Docs](https://getkirby.com/docs/panel/developers/custom-form-fields) | Form fields for the panel
-| [Model](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AModel) | [Docs](https://getkirby.com/docs/templates/models) | Extended page object
-| [Plugin](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3APlugin) | - |Plugins for Kirby
-| [Snippet](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ASnippet) | [Docs](https://getkirby.com/docs/templates/snippets) | Template parts
-| [Tag](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ATag) | [Docs](https://getkirby.com/docs/advanced/kirbytext) | Kirbytext tags for the content
-| [Template](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ATemplate) | [Docs](https://getkirby.com/docs/templates/hello-world) | Kirby templates
-| [Tool](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ATool) | - | An external or internal tool
-| [Widget](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AWidget) | [Docs](https://getkirby.com/docs/panel/developers/widgets) | Widgets for the panel
+| [![Controller](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/controller.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AController) | [Docs](https://getkirby.com/docs/templates/controllers) | Logic taken out from the templates
+| [![Core](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/core.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ACore) | [Docs](https://getkirby.com/docs) | Fork of the Kirby core
+| [![Field](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/field.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AField) | [Docs](https://getkirby.com/docs/panel/developers/custom-form-fields) | Form fields for the panel
+| [![Model](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/model.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AModel) | [Docs](https://getkirby.com/docs/templates/models) | Extended page object
+| [![Plugin](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/plugin.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3APlugin) | - |Plugins for Kirby
+| [![Snippet](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/snippet.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ASnippet) | [Docs](https://getkirby.com/docs/templates/snippets) | Template parts
+| [![Tag](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/tag.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ATag) | [Docs](https://getkirby.com/docs/advanced/kirbytext) | Kirbytext tags for the content
+| [![Template](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/template.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ATemplate) | [Docs](https://getkirby.com/docs/templates/hello-world) | Kirby templates
+| [![Tool](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/tool.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ATool) | - | An external or internal tool
+| [![Widget](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/widget.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AWidget) | [Docs](https://getkirby.com/docs/panel/developers/widgets) | Widgets for the panel
 
 ### States
 
+Uses strong colors.
+
 | Label      | Description 
 | -----------|---
-| [Broken](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ABroken) | Does not work with latest version of Kirby
-| [Duplicate](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ADuplicate)  | Already added to the repository
-| [Malware](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AMalware)    | Contains virus, spam or other unwanted stuff
-| [Stable](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AStable)     | Approved as stable in the official Kirby plugin repo
+| [![Broken](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/broken.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ABroken) | Does not work with latest version of Kirby
+| [![Duplicate](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/duplicate.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ADuplicate)  | Already added to the repository
+| [![Malware](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/malware.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AMalware)    | Contains virus, spam or other unwanted stuff
+| [![Stable](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/stable.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AStable)     | Approved as stable in the official Kirby plugin repo
 
 ### Search
 
