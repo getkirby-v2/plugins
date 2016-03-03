@@ -1,8 +1,9 @@
 # Kirby Plugins
 
 The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issues)** for [Kirby CMS](https://getkirby.com/).
+Also see the unofficial [theme list](https://github.com/jenstornell/kirby-themes/issues).
 
-***In this repository a plugin is anything related to Kirby, that is not a theme.***
+`In this repository a plugin is anything related to Kirby, that is not a theme.`
 
 **Types** *(weak colors)*:
 
@@ -63,3 +64,9 @@ This repository does not take any responsibility for the harm the plugins can do
 - https://forum.getkirby.com/c/plugins
 - https://forum.getkirby.com/t/the-kirby-plugin-extensions-collection
 - http://getkirby-plugins.com/
+
+## Special thanks to
+
+I would like to give a special thanks to @aoimedia that has been deeply involved in this thing.
+
+I would also like to thank everyone that contributes to this repo, one way or the other.
