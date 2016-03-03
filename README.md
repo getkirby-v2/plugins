@@ -4,7 +4,7 @@ The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issu
 
 ***In this repository a plugin is anything related to Kirby, that is not a theme.***
 
-### Types *(weak colors)*
+**Types** *(weak colors)*:
 
 | Label      | Docs| Description
 | -----------|---|---
@@ -20,14 +20,14 @@ The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issu
 | [![Tool](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/tool.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ATool) | - | An external or internal tool
 | [![Widget](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/widget.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AWidget) | [Docs](https://getkirby.com/docs/panel/developers/widgets) | Widgets for the panel
 
-### Groups *(strong colors)*
+**Groups** *(strong colors)*:
 
 | Label      | Description 
 | -----------|---
 | [![Commercial](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/commercial.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | Costs money
 | [![Panel](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/panel.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3APanel) | For the Kirby Panel
 
-### States *(strong colors)*
+**States** *(strong colors)*:
 
 | Label      | Description 
 | -----------|---
