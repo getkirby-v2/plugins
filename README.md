@@ -15,7 +15,7 @@ The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issu
 
 | Label      | Docs| Description
 | -----------|---|---
-| [Blueprint](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ABlueprint) | [Docs](https://getkirby.com/docs/panel/blueprints) | Blueprints for the panel
+| [![Blueprint](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/blueprint.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ABlueprint) | [Docs](https://getkirby.com/docs/panel/blueprints) | Blueprints for the panel
 | [Controller](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AController) | [Docs](https://getkirby.com/docs/templates/controllers) | Logic taken out from the templates
 | [Core](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ACore) | [Docs](https://getkirby.com/docs) | Fork of the Kirby core
 | [Field](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AField) | [Docs](https://getkirby.com/docs/panel/developers/custom-form-fields) | Form fields for the panel
