@@ -1,7 +1,6 @@
 # Kirby Plugins
 
 The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issues)** for [Kirby CMS](https://getkirby.com/).
-Also see the unofficial [theme list](https://github.com/jenstornell/kirby-themes/issues).
 
 `In this repository a plugin is anything related to Kirby, that is not a theme.`
 
@@ -23,19 +22,16 @@ Also see the unofficial [theme list](https://github.com/jenstornell/kirby-themes
 
 **Groups** *(strong colors)*:
 
-| Label      | Description 
+| Label      | Description
 | -----------|---
 | [![Commercial](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/commercial.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | Costs money
 | [![Panel](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/panel.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3APanel) | For the Kirby Panel
+| [![Stable](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/stable.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AStable) | Approved as stable in the official Kirby plugin repo.
+| [![Stable](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/beta.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ABeta) | Anything that is not a complete version.
 
-**States** *(strong colors)*:
-
-| Label      | Description 
-| -----------|---
-| [![Broken](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/broken.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ABroken) | Does not work with latest version of Kirby
-| [![Duplicate](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/duplicate.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ADuplicate)  | Already added to the repository
-| [![Malware](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/malware.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AMalware)    | Contains virus, spam or other unwanted stuff
-| [![Stable](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/stable.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AStable)     | Approved as stable in the official Kirby plugin repo
+| Tags
+| ---
+| [Audio](https://github.com/jenstornell/kirby-plugins/labels/Audio), [Bootstrap](https://github.com/jenstornell/kirby-plugins/labels/Bootstrap)
 
 You can also [search](https://github.com/jenstornell/kirby-plugins/issues) for the plugin.
 
@@ -51,9 +47,9 @@ You can only add labels if you are a collaborator. I can change the privileges w
 
 If the plugin is **broken**, is **malware** or is **duplicate** (already exists in the plugin list), add a comment in the plugin issue. If others agree, we can label it. Don't close the issue!
 
-## Future ideas
+## Requirements
 
-- A website built with [Github API](https://developer.github.com/v3/issues/) to make the plugins more visually appealing.
+The requirement for using these plugins is Kirby 2. If you are still using Kirby 1 we encourage you to update for compatibility and security reasons.
 
 ## Responsibility
 
@@ -64,6 +60,14 @@ This repository does not take any responsibility for the harm the plugins can do
 - https://forum.getkirby.com/c/plugins
 - https://forum.getkirby.com/t/the-kirby-plugin-extensions-collection
 - http://getkirby-plugins.com/
+
+## Kirby themes
+
+**[Kirby themes](https://github.com/jenstornell/kirby-themes)** - the unofficial [theme list](https://github.com/jenstornell/kirby-themes/issues) for Kirby CMS.
+
+## Future ideas
+
+- A website built with [Github API](https://developer.github.com/v3/issues/) to make the plugins more visually appealing.
 
 ## Special thanks to
 
