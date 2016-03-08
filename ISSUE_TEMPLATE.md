@@ -7,9 +7,9 @@ Want to add a Kirby plugin? How awesome!
 
 #### Format (Optional)
 
-Use the format below, or just add a link and we will do the rest.
+Just want to add a link? Great! Do that!
 
-**Replace the brackets with content:**
+Want do add more formatting? Here is a formatting suggestion. Replace the brackets with content.
 
 **Site:** [plugin website]
 **Github:** [plugin repository on github]
