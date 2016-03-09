@@ -25,6 +25,7 @@ The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issu
 | -----------|---
 | [![Commercial](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/commercial.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | Costs money
 | [![Panel](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/panel.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3APanel) | For the Kirby Panel
+| [![Screenshot](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/screenshot.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AScreenshot) |Plugin with screenshot
 | [![Stable](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/stable.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3AStable) | Approved as stable in the official Kirby plugin repo.
 | [![Stable](https://cdn.rawgit.com/jenstornell/kirby-plugins/master/labels/beta.svg)](https://github.com/jenstornell/kirby-plugins/issues?q=is%3Aissue+is%3Aopen+label%3ABeta) | Anything that is not a complete version.
 
