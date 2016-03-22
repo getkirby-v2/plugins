@@ -1,6 +1,6 @@
 # Kirby Plugins
 
-The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issues)** for [Kirby CMS](https://getkirby.com/).
+### The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issues)** for [Kirby CMS](https://getkirby.com/).
 
 `In this repository a plugin is anything related to Kirby, that is not a theme.`
 
