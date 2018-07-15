@@ -33,6 +33,10 @@
 | ---
 | [Audio](https://github.com/jenstornell/kirby-plugins/labels/Audio), [Bootstrap](https://github.com/jenstornell/kirby-plugins/labels/Bootstrap), [Cache](https://github.com/jenstornell/kirby-plugins/labels/Cache), [Calendar](https://github.com/jenstornell/kirby-plugins/labels/Calendar), [Date](https://github.com/jenstornell/kirby-plugins/labels/Date), [E-commerce](https://github.com/jenstornell/kirby-plugins/labels/E-commerce), [Editor](https://github.com/jenstornell/kirby-plugins/labels/Editor), [Embed](https://github.com/jenstornell/kirby-plugins/labels/Embed), [Feed](https://github.com/jenstornell/kirby-plugins/labels/Feed), [Font](https://github.com/jenstornell/kirby-plugins/labels/Font), [Form](https://github.com/jenstornell/kirby-plugins/labels/Form), [Foundation](https://github.com/jenstornell/kirby-plugins/labels/Foundation), [Geolocation](https://github.com/jenstornell/kirby-plugins/labels/Geolocation), [Hook](https://github.com/jenstornell/kirby-plugins/labels/Hook), [Icon](https://github.com/jenstornell/kirby-plugins/labels/Icon), [Image](https://github.com/jenstornell/kirby-plugins/labels/Image), [Less](https://github.com/jenstornell/kirby-plugins/labels/Less), [Pagination](https://github.com/jenstornell/kirby-plugins/labels/Pagination), [Podcast](https://github.com/jenstornell/kirby-plugins/labels/Podcast), [Redirect](https://github.com/jenstornell/kirby-plugins/labels/Redirect), [Sass](https://github.com/jenstornell/kirby-plugins/labels/Sass), [Security](https://github.com/jenstornell/kirby-plugins/labels/Security), [Sitemap](https://github.com/jenstornell/kirby-plugins/labels/Sitemap), [Social](https://github.com/jenstornell/kirby-plugins/labels/Social), [Statistics](https://github.com/jenstornell/kirby-plugins/labels/Statistics), [Table](https://github.com/jenstornell/kirby-plugins/labels/Table), [Tabs](https://github.com/jenstornell/kirby-plugins/labels/Tabs), [Tool](https://github.com/jenstornell/kirby-plugins/labels/Tool), [Text](https://github.com/jenstornell/kirby-plugins/labels/Text), [Time](https://github.com/jenstornell/kirby-plugins/labels/Time), [Unique](https://github.com/jenstornell/kirby-plugins/labels/Unique), [Users](https://github.com/jenstornell/kirby-plugins/labels/Users), [Video](https://github.com/jenstornell/kirby-plugins/labels/Video)
 
+### Labels
+
+- [Kirby versions](https://github.com/jenstornell/kirby-plugins/labels?utf8=%E2%9C%93&q=version)
+
 You can also [search](https://github.com/jenstornell/kirby-plugins/issues) for the plugin.
 
 ## Submit a plugin
@@ -58,19 +62,11 @@ This repository does not take any responsibility for the harm the plugins can do
 ## Other resources
 
 - https://forum.getkirby.com/c/plugins
-- https://forum.getkirby.com/t/the-kirby-plugin-extensions-collection
-- http://getkirby-plugins.com/
 
 ## Kirby themes
 
 **[Kirby themes](https://github.com/jenstornell/kirby-themes)** - the unofficial [theme list](https://github.com/jenstornell/kirby-themes/issues) for Kirby CMS.
 
-## Future ideas
-
-- A website built with [Github API](https://developer.github.com/v3/issues/) to make the plugins more visually appealing.
-
 ## Special thanks to
 
-I would like to give a special thanks to @aoimedia that has been deeply involved in this thing.
-
-I would also like to thank everyone that contributes to this repo, one way or the other.
+I would like to give a special thanks to @aoimedia that has been deeply involved in this thing. I would also like to thank everyone that contributes to this repo, one way or the other.
