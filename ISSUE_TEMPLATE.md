@@ -1,7 +1,9 @@
-**Url:** [Github repository url, or another source]
+**Url:** https://example.com/replace-this-url-with-the-plugin-url
 
-[quote or short information]
+### Information
 
-[screenshot]
+Replace this text with something useful about the plugin you submit. Make sure it does not already exist by searching for the url in the issue search.
 
-*Make the plugin you submit is not already in the repository by searching for the url*
+### Screenshot
+
+![Placekitten](https://placekitten.com/200/138)
