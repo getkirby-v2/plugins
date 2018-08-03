@@ -16,15 +16,17 @@ Below you can see the label groups including the labels. The only label group no
 
 Browse plugins by files included in the plugin repository:
 
-- [CLI](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20CLI)
-- [Screenshot](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20Screenshot)
-- [Packagist](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20Packagist)
+- ![](https://placehold.it/15/eeeeee/000000?text=+) [CLI](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20CLI)
+- ![](https://placehold.it/15/eeeeee/000000?text=+) [Screenshot](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20Screenshot)
+- ![](https://placehold.it/15/eeeeee/000000?text=+) [Packagist](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20Packagist)
+
+0052cc
 
 ### **Browse by:** Has
 
 Browse plugins by the things it has registered:
 
-- [Blueprint](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20blueprint)
+- ![](https://placehold.it/15/0052cc/000000?text=+) [Blueprint](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20blueprint)
 - [Controller](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20controller)
 - [Field](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20field)
 - [Field Method](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20fieldMethod)
