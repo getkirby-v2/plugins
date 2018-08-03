@@ -26,14 +26,14 @@ Browse plugins by files included in the plugin repository:
 
 Browse plugins by the things it has registered:
 
-![](https://placehold.it/15/0052cc/000000?text=+) [Blueprint](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20blueprint)
-![](https://placehold.it/15/0052cc/000000?text=+) [Controller](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20controller)
-![](https://placehold.it/15/0052cc/000000?text=+) [Field](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20field)
-![](https://placehold.it/15/0052cc/000000?text=+) [Field Method](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20fieldMethod)
-![](https://placehold.it/15/0052cc/000000?text=+) [Kirbytext Tag](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20kirbytextTag)
-![](https://placehold.it/15/0052cc/000000?text=+) [Model](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20model)
-![](https://placehold.it/15/0052cc/000000?text=+) [Snippet](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20snippet)
-![](https://placehold.it/15/0052cc/000000?text=+) [Template](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20template)
+![](https://placehold.it/15/0052cc/000000?text=+) [Blueprint](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20blueprint)<br>
+![](https://placehold.it/15/0052cc/000000?text=+) [Controller](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20controller)<br>
+![](https://placehold.it/15/0052cc/000000?text=+) [Field](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20field)<br>
+![](https://placehold.it/15/0052cc/000000?text=+) [Field Method](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20fieldMethod)<br>
+![](https://placehold.it/15/0052cc/000000?text=+) [Kirbytext Tag](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20kirbytextTag)<br>
+![](https://placehold.it/15/0052cc/000000?text=+) [Model](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20model)<br>
+![](https://placehold.it/15/0052cc/000000?text=+) [Snippet](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20snippet)<br>
+![](https://placehold.it/15/0052cc/000000?text=+) [Template](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20template)<br>
 ![](https://placehold.it/15/0052cc/000000?text=+) [Widget](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20widget)
 
 ### **Browse by:** License
