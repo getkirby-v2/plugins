@@ -16,11 +16,9 @@ Below you can see the label groups including the labels. The only label group no
 
 Browse plugins by files included in the plugin repository:
 
-- ![](https://placehold.it/15/eeeeee/000000?text=+) [CLI](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20CLI)
-- ![](https://placehold.it/15/eeeeee/000000?text=+) [Screenshot](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20Screenshot)
-- ![](https://placehold.it/15/eeeeee/000000?text=+) [Packagist](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20Packagist)
-
-0052cc
+![](https://placehold.it/15/eeeeee/000000?text=+) [CLI](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20CLI)<br>
+![](https://placehold.it/15/eeeeee/000000?text=+) [Screenshot](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20Screenshot)<br>
+![](https://placehold.it/15/eeeeee/000000?text=+) [Packagist](https://github.com/jenstornell/kirby-plugins/labels/File%3A%20Packagist)
 
 ### **Browse by:** Has
 
@@ -38,28 +36,28 @@ Browse plugins by the things it has registered:
 
 ### **Browse by:** License
 
-- ![](https://placehold.it/15/c5def5/000000?text=+) [Commercial](https://github.com/jenstornell/kirby-plugins/labels/License%3A%20Commercial)
-- ![](https://placehold.it/15/c5def5/000000?text=+) [MIT](https://github.com/jenstornell/kirby-plugins/labels/License%3A%20MIT)
+![](https://placehold.it/15/c5def5/000000?text=+) [Commercial](https://github.com/jenstornell/kirby-plugins/labels/License%3A%20Commercial)<br>
+![](https://placehold.it/15/c5def5/000000?text=+) [MIT](https://github.com/jenstornell/kirby-plugins/labels/License%3A%20MIT)
 
 ### **Browse by:** State
 
-- ![](https://placehold.it/15/fbca04/000000?text=+) [Beta](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Beta)
-- ![](https://placehold.it/15/fbca04/000000?text=+)[Broken](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Broken)
-- ![](https://placehold.it/15/fbca04/000000?text=+)[Deprecated](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Deprecated)
+![](https://placehold.it/15/fbca04/000000?text=+) [Beta](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Beta)<br>
+![](https://placehold.it/15/fbca04/000000?text=+) [Broken](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Broken)<br>
+![](https://placehold.it/15/fbca04/000000?text=+) [Deprecated](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Deprecated)
 
 ### **Browse by:** Type
 
 Not all things in this repository are plugins. Browse by which type they are:
 
-- ![](https://placehold.it/15/000000/000000?text=+) [Plugin](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Plugin)
-- ![](https://placehold.it/15/000000/000000?text=+) [Core](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Core)
-- ![](https://placehold.it/15/000000/000000?text=+) [Tutorial](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Tutorial)
-- ![](https://placehold.it/15/000000/000000?text=+) [Misc](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Misc)
+![](https://placehold.it/15/000000/000000?text=+) [Plugin](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Plugin)<br>
+![](https://placehold.it/15/000000/000000?text=+) [Core](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Core)<br>
+![](https://placehold.it/15/000000/000000?text=+) [Tutorial](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Tutorial)<br>
+![](https://placehold.it/15/000000/000000?text=+) [Misc](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Misc)
 
 ### **Browse by:** Version
 
-- ![](https://placehold.it/15/5319e7/000000?text=+) [Version 2](https://github.com/jenstornell/kirby-plugins/labels/Version%3A%202)
-- ![](https://placehold.it/15/5319e7/000000?text=+) [Version 3](https://github.com/jenstornell/kirby-plugins/labels/Version%3A%203)
+![](https://placehold.it/15/5319e7/000000?text=+) [Version 2](https://github.com/jenstornell/kirby-plugins/labels/Version%3A%202)<br>
+![](https://placehold.it/15/5319e7/000000?text=+) [Version 3](https://github.com/jenstornell/kirby-plugins/labels/Version%3A%203)
 
 <!--
 ### Label groups
