@@ -27,39 +27,39 @@ Browse plugins by files included in the plugin repository:
 Browse plugins by the things it has registered:
 
 - ![](https://placehold.it/15/0052cc/000000?text=+) [Blueprint](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20blueprint)
-- [Controller](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20controller)
-- [Field](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20field)
-- [Field Method](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20fieldMethod)
-- [Kirbytext Tag](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20kirbytextTag)
-- [Model](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20model)
-- [Snippet](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20snippet)
-- [Template](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20template)
-- [Widget](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20widget)
+- ![](https://placehold.it/15/0052cc/000000?text=+) [Controller](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20controller)
+- ![](https://placehold.it/15/0052cc/000000?text=+) [Field](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20field)
+- ![](https://placehold.it/15/0052cc/000000?text=+) [Field Method](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20fieldMethod)
+- ![](https://placehold.it/15/0052cc/000000?text=+) [Kirbytext Tag](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20kirbytextTag)
+- ![](https://placehold.it/15/0052cc/000000?text=+) [Model](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20model)
+- ![](https://placehold.it/15/0052cc/000000?text=+) [Snippet](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20snippet)
+- ![](https://placehold.it/15/0052cc/000000?text=+) [Template](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20template)
+- ![](https://placehold.it/15/0052cc/000000?text=+) [Widget](https://github.com/jenstornell/kirby-plugins/labels/Has%3A%20widget)
 
 ### **Browse by:** License
 
-- [Commercial](https://github.com/jenstornell/kirby-plugins/labels/License%3A%20Commercial)
-- [MIT](https://github.com/jenstornell/kirby-plugins/labels/License%3A%20MIT)
+- ![](https://placehold.it/15/c5def5/000000?text=+) [Commercial](https://github.com/jenstornell/kirby-plugins/labels/License%3A%20Commercial)
+- ![](https://placehold.it/15/c5def5/000000?text=+) [MIT](https://github.com/jenstornell/kirby-plugins/labels/License%3A%20MIT)
 
 ### **Browse by:** State
 
-- [Beta](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Beta)
-- [Broken](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Broken)
-- [Deprecated](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Deprecated)
+- ![](https://placehold.it/15/fbca04/000000?text=+) [Beta](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Beta)
+- ![](https://placehold.it/15/fbca04/000000?text=+)[Broken](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Broken)
+- ![](https://placehold.it/15/fbca04/000000?text=+)[Deprecated](https://github.com/jenstornell/kirby-plugins/labels/State%3A%20Deprecated)
 
 ### **Browse by:** Type
 
 Not all things in this repository are plugins. Browse by which type they are:
 
-- [Plugin](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Plugin)
-- [Core](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Core)
-- [Tutorial](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Tutorial)
-- [Misc](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Misc)
+- ![](https://placehold.it/15/000000/000000?text=+) [Plugin](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Plugin)
+- ![](https://placehold.it/15/000000/000000?text=+) [Core](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Core)
+- ![](https://placehold.it/15/000000/000000?text=+) [Tutorial](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Tutorial)
+- ![](https://placehold.it/15/000000/000000?text=+) [Misc](https://github.com/jenstornell/kirby-plugins/labels/Type%3A%20Misc)
 
 ### **Browse by:** Version
 
-- [Version 2](https://github.com/jenstornell/kirby-plugins/labels/Version%3A%202)
-- [Version 3](https://github.com/jenstornell/kirby-plugins/labels/Version%3A%203)
+- ![](https://placehold.it/15/5319e7/000000?text=+) [Version 2](https://github.com/jenstornell/kirby-plugins/labels/Version%3A%202)
+- ![](https://placehold.it/15/5319e7/000000?text=+) [Version 3](https://github.com/jenstornell/kirby-plugins/labels/Version%3A%203)
 
 <!--
 ### Label groups
