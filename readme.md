@@ -2,27 +2,15 @@
 
 **The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issues)** for [Kirby CMS](https://getkirby.com/).**
 
-In this repository a plugin is anything related to Kirby, that is not a theme.
+*In this repository a plugin is anything related to Kirby, that is not a theme.*
 
-## Search for a plugin
-
-The best way to find plugins is to [search](https://github.com/jenstornell/kirby-plugins/issues) for them. If that does not work, you can browse the labels (next chapter).
+The best way to find plugins is to [search](https://github.com/jenstornell/kirby-plugins/issues) for them. If that does not work, you can browse the labels.
 
 ## Labels
 
-Every plugin has one or more labels. It makes it easier to find what you are looking for in the search, but it does also make it easier to browse for plugins.
+Every plugin has one or more [labels](https://github.com/jenstornell/kirby-plugins/labels). It makes it easier to find what you are looking for in the search, but it does also make it easier to browse for plugins.
 
-### Label groups
-
-All the labels is included in a group. All the groups is listed below:
-
-- [File](https://github.com/jenstornell/kirby-plugins/labels?utf8=%E2%9C%93&q=File%3A+)
-- [Has](https://github.com/jenstornell/kirby-plugins/labels?utf8=%E2%9C%93&q=Has%3A+)
-- [License](https://github.com/jenstornell/kirby-plugins/labels?utf8=%E2%9C%93&q=License%3A+)
-- [State](https://github.com/jenstornell/kirby-plugins/labels?utf8=%E2%9C%93&q=State%3A+)
-- [Tag](https://github.com/jenstornell/kirby-plugins/labels?utf8=%E2%9C%93&q=Tag%3A+)
-- [Type](https://github.com/jenstornell/kirby-plugins/labels?utf8=%E2%9C%93&q=Type%3A+)
-- [Version](https://github.com/jenstornell/kirby-plugins/labels?utf8=%E2%9C%93&q=Version%3A+)
+Below you can see the label groups including the labels. The only label group not listed is [Tag](https://github.com/jenstornell/kirby-plugins/labels?utf8=%E2%9C%93&q=Tag%3A+) because it includes so many labels which will change a lot.
 
 ### **Browse by:** File
 
