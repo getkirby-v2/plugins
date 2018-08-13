@@ -2,9 +2,15 @@
 
 **The unofficial **[plugin list](https://github.com/jenstornell/kirby-plugins/issues)** for [Kirby CMS](https://getkirby.com/).**
 
-*In this repository a plugin is anything related to Kirby, that is not a theme.*
+In this repository a plugin is anything related to Kirby, that is not a theme.
 
-The best way to find plugins is to [search](https://github.com/jenstornell/kirby-plugins/issues) for them. If that does not work, you can browse the labels.
+## Tool to find plugins
+
+[@heroheman](https://github.com/heroheman) has created a tool that makes it very easy to find the plugin that you are looking for.
+
+[![Kirby Directory](kirby-directory.png)](https://kirby.directory)
+
+If you don't want to use the tool above, you can [search in the issues](https://github.com/jenstornell/kirby-plugins/issues). If that does not work, you can browse the labels below.
 
 ## Labels
 
