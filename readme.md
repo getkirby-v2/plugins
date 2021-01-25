@@ -2,7 +2,7 @@
 
 **The official plugin list for [Kirby 2](https://getkirby.com/).**  
 
-For Kirby 3 plugins, please visit: https://github.com/getkirby/plugins
+For Kirby 3 plugins, please visit: https://getkirby.com/plugins
 
 In this repository a plugin is anything related to Kirby, that is not a theme.
 
